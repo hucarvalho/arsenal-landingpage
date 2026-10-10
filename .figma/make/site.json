@@ -1,0 +1,10 @@
+{
+  "description": "Displays a sleek, dark-mode status page announcing system maintenance and updates for a SaaS platform, keeping users informed with clear progress and solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
